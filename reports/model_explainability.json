@@ -1,0 +1,26 @@
+{
+  "linear_coefficients_standardized": {
+    "case_seq_no": 4.371621974862397,
+    "filing_year": -74.50076682092666,
+    "filing_month": 49.9042390235359,
+    "filing_quarter": -31.910217688103074,
+    "filing_day_of_week": -6.662547635010484,
+    "filing_day_of_year": -96.82131136637184
+  },
+  "decision_tree_importances": {
+    "case_seq_no": 0.8484669577044108,
+    "filing_year": 0.0,
+    "filing_month": 0.0023578475528703512,
+    "filing_quarter": 0.0,
+    "filing_day_of_week": 0.03533192241035014,
+    "filing_day_of_year": 0.11384327233236874
+  },
+  "random_forest_importances": {
+    "case_seq_no": 0.7687364735674381,
+    "filing_year": 0.020922566127729875,
+    "filing_month": 0.012635437481905442,
+    "filing_quarter": 0.000979088612900008,
+    "filing_day_of_week": 0.05806478558455139,
+    "filing_day_of_year": 0.13866164862547506
+  }
+}

@@ -1,0 +1,1202 @@
+[
+  {
+    "filingnumber": "KL-000054-2024",
+    "filing_date": "November 20, 2024",
+    "observed_age_days": 475,
+    "procedural_score": 100.0,
+    "rank": 1,
+    "primary_factors": [
+      "Observed court pendency: 475 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #54."
+    ]
+  },
+  {
+    "filingnumber": "KL-000058-2024",
+    "filing_date": "November 20, 2024",
+    "observed_age_days": 475,
+    "procedural_score": 100.0,
+    "rank": 1,
+    "primary_factors": [
+      "Observed court pendency: 475 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #58."
+    ]
+  },
+  {
+    "filingnumber": "KL-000102-2024",
+    "filing_date": "November 23, 2024",
+    "observed_age_days": 472,
+    "procedural_score": 99.53,
+    "rank": 3,
+    "primary_factors": [
+      "Observed court pendency: 472 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #102."
+    ]
+  },
+  {
+    "filingnumber": "KL-000103-2024",
+    "filing_date": "November 26, 2024",
+    "observed_age_days": 469,
+    "procedural_score": 99.05,
+    "rank": 4,
+    "primary_factors": [
+      "Observed court pendency: 469 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #103."
+    ]
+  },
+  {
+    "filingnumber": "KL-000116-2024",
+    "filing_date": "November 26, 2024",
+    "observed_age_days": 469,
+    "procedural_score": 99.05,
+    "rank": 4,
+    "primary_factors": [
+      "Observed court pendency: 469 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #116."
+    ]
+  },
+  {
+    "filingnumber": "KL-000118-2024",
+    "filing_date": "November 26, 2024",
+    "observed_age_days": 469,
+    "procedural_score": 99.05,
+    "rank": 4,
+    "primary_factors": [
+      "Observed court pendency: 469 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #118."
+    ]
+  },
+  {
+    "filingnumber": "KL-000120-2024",
+    "filing_date": "November 26, 2024",
+    "observed_age_days": 469,
+    "procedural_score": 99.05,
+    "rank": 4,
+    "primary_factors": [
+      "Observed court pendency: 469 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #120."
+    ]
+  },
+  {
+    "filingnumber": "KL-000114-2024",
+    "filing_date": "November 27, 2024",
+    "observed_age_days": 468,
+    "procedural_score": 98.89,
+    "rank": 8,
+    "primary_factors": [
+      "Observed court pendency: 468 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #114."
+    ]
+  },
+  {
+    "filingnumber": "KL-000123-2024",
+    "filing_date": "November 27, 2024",
+    "observed_age_days": 468,
+    "procedural_score": 98.89,
+    "rank": 8,
+    "primary_factors": [
+      "Observed court pendency: 468 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #123."
+    ]
+  },
+  {
+    "filingnumber": "KL-000128-2024",
+    "filing_date": "November 28, 2024",
+    "observed_age_days": 467,
+    "procedural_score": 98.74,
+    "rank": 10,
+    "primary_factors": [
+      "Observed court pendency: 467 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #128."
+    ]
+  },
+  {
+    "filingnumber": "KL-000131-2024",
+    "filing_date": "November 29, 2024",
+    "observed_age_days": 466,
+    "procedural_score": 98.58,
+    "rank": 11,
+    "primary_factors": [
+      "Observed court pendency: 466 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #131."
+    ]
+  },
+  {
+    "filingnumber": "KL-000132-2024",
+    "filing_date": "November 29, 2024",
+    "observed_age_days": 466,
+    "procedural_score": 98.58,
+    "rank": 11,
+    "primary_factors": [
+      "Observed court pendency: 466 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #132."
+    ]
+  },
+  {
+    "filingnumber": "KL-000138-2024",
+    "filing_date": "November 29, 2024",
+    "observed_age_days": 466,
+    "procedural_score": 98.58,
+    "rank": 11,
+    "primary_factors": [
+      "Observed court pendency: 466 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #138."
+    ]
+  },
+  {
+    "filingnumber": "KL-000150-2024",
+    "filing_date": "November 30, 2024",
+    "observed_age_days": 465,
+    "procedural_score": 98.42,
+    "rank": 14,
+    "primary_factors": [
+      "Observed court pendency: 465 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #150."
+    ]
+  },
+  {
+    "filingnumber": "KL-000154-2024",
+    "filing_date": "November 30, 2024",
+    "observed_age_days": 465,
+    "procedural_score": 98.42,
+    "rank": 14,
+    "primary_factors": [
+      "Observed court pendency: 465 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #154."
+    ]
+  },
+  {
+    "filingnumber": "KL-000156-2024",
+    "filing_date": "December 3, 2024",
+    "observed_age_days": 462,
+    "procedural_score": 97.95,
+    "rank": 16,
+    "primary_factors": [
+      "Observed court pendency: 462 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #156."
+    ]
+  },
+  {
+    "filingnumber": "KL-000262-2024",
+    "filing_date": "December 3, 2024",
+    "observed_age_days": 462,
+    "procedural_score": 97.95,
+    "rank": 16,
+    "primary_factors": [
+      "Observed court pendency: 462 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #262."
+    ]
+  },
+  {
+    "filingnumber": "KL-000263-2024",
+    "filing_date": "December 4, 2024",
+    "observed_age_days": 461,
+    "procedural_score": 97.79,
+    "rank": 18,
+    "primary_factors": [
+      "Observed court pendency: 461 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #263."
+    ]
+  },
+  {
+    "filingnumber": "KL-000267-2024",
+    "filing_date": "December 5, 2024",
+    "observed_age_days": 460,
+    "procedural_score": 97.63,
+    "rank": 19,
+    "primary_factors": [
+      "Observed court pendency: 460 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #267."
+    ]
+  },
+  {
+    "filingnumber": "KL-000270-2024",
+    "filing_date": "December 6, 2024",
+    "observed_age_days": 459,
+    "procedural_score": 97.47,
+    "rank": 20,
+    "primary_factors": [
+      "Observed court pendency: 459 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #270."
+    ]
+  },
+  {
+    "filingnumber": "KL-000278-2024",
+    "filing_date": "December 8, 2024",
+    "observed_age_days": 457,
+    "procedural_score": 97.16,
+    "rank": 21,
+    "primary_factors": [
+      "Observed court pendency: 457 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #278."
+    ]
+  },
+  {
+    "filingnumber": "KL-000279-2024",
+    "filing_date": "December 8, 2024",
+    "observed_age_days": 457,
+    "procedural_score": 97.16,
+    "rank": 21,
+    "primary_factors": [
+      "Observed court pendency: 457 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #279."
+    ]
+  },
+  {
+    "filingnumber": "KL-000149-2024",
+    "filing_date": "December 10, 2024",
+    "observed_age_days": 455,
+    "procedural_score": 96.84,
+    "rank": 23,
+    "primary_factors": [
+      "Observed court pendency: 455 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #149."
+    ]
+  },
+  {
+    "filingnumber": "KL-000261-2024",
+    "filing_date": "December 10, 2024",
+    "observed_age_days": 455,
+    "procedural_score": 96.84,
+    "rank": 23,
+    "primary_factors": [
+      "Observed court pendency: 455 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #261."
+    ]
+  },
+  {
+    "filingnumber": "KL-000282-2024",
+    "filing_date": "December 10, 2024",
+    "observed_age_days": 455,
+    "procedural_score": 96.84,
+    "rank": 23,
+    "primary_factors": [
+      "Observed court pendency: 455 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #282."
+    ]
+  },
+  {
+    "filingnumber": "KL-000286-2024",
+    "filing_date": "December 10, 2024",
+    "observed_age_days": 455,
+    "procedural_score": 96.84,
+    "rank": 23,
+    "primary_factors": [
+      "Observed court pendency: 455 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #286."
+    ]
+  },
+  {
+    "filingnumber": "KL-000289-2024",
+    "filing_date": "December 10, 2024",
+    "observed_age_days": 455,
+    "procedural_score": 96.84,
+    "rank": 23,
+    "primary_factors": [
+      "Observed court pendency: 455 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #289."
+    ]
+  },
+  {
+    "filingnumber": "KL-000147-2024",
+    "filing_date": "December 12, 2024",
+    "observed_age_days": 453,
+    "procedural_score": 96.53,
+    "rank": 28,
+    "primary_factors": [
+      "Observed court pendency: 453 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #147."
+    ]
+  },
+  {
+    "filingnumber": "KL-000296-2024",
+    "filing_date": "December 12, 2024",
+    "observed_age_days": 453,
+    "procedural_score": 96.53,
+    "rank": 28,
+    "primary_factors": [
+      "Observed court pendency: 453 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #296."
+    ]
+  },
+  {
+    "filingnumber": "KL-000093-2024",
+    "filing_date": "December 13, 2024",
+    "observed_age_days": 452,
+    "procedural_score": 96.37,
+    "rank": 30,
+    "primary_factors": [
+      "Observed court pendency: 452 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #93."
+    ]
+  },
+  {
+    "filingnumber": "KL-000298-2024",
+    "filing_date": "December 13, 2024",
+    "observed_age_days": 452,
+    "procedural_score": 96.37,
+    "rank": 30,
+    "primary_factors": [
+      "Observed court pendency: 452 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #298."
+    ]
+  },
+  {
+    "filingnumber": "KL-000299-2024",
+    "filing_date": "December 13, 2024",
+    "observed_age_days": 452,
+    "procedural_score": 96.37,
+    "rank": 30,
+    "primary_factors": [
+      "Observed court pendency: 452 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #299."
+    ]
+  },
+  {
+    "filingnumber": "KL-000300-2024",
+    "filing_date": "December 13, 2024",
+    "observed_age_days": 452,
+    "procedural_score": 96.37,
+    "rank": 30,
+    "primary_factors": [
+      "Observed court pendency: 452 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #300."
+    ]
+  },
+  {
+    "filingnumber": "KL-000301-2024",
+    "filing_date": "December 13, 2024",
+    "observed_age_days": 452,
+    "procedural_score": 96.37,
+    "rank": 30,
+    "primary_factors": [
+      "Observed court pendency: 452 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #301."
+    ]
+  },
+  {
+    "filingnumber": "KL-000302-2024",
+    "filing_date": "December 13, 2024",
+    "observed_age_days": 452,
+    "procedural_score": 96.37,
+    "rank": 30,
+    "primary_factors": [
+      "Observed court pendency: 452 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #302."
+    ]
+  },
+  {
+    "filingnumber": "KL-000303-2024",
+    "filing_date": "December 13, 2024",
+    "observed_age_days": 452,
+    "procedural_score": 96.37,
+    "rank": 30,
+    "primary_factors": [
+      "Observed court pendency: 452 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #303."
+    ]
+  },
+  {
+    "filingnumber": "KL-000310-2024",
+    "filing_date": "December 16, 2024",
+    "observed_age_days": 449,
+    "procedural_score": 95.89,
+    "rank": 37,
+    "primary_factors": [
+      "Observed court pendency: 449 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #310."
+    ]
+  },
+  {
+    "filingnumber": "KL-000314-2024",
+    "filing_date": "December 18, 2024",
+    "observed_age_days": 447,
+    "procedural_score": 95.58,
+    "rank": 38,
+    "primary_factors": [
+      "Observed court pendency: 447 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #314."
+    ]
+  },
+  {
+    "filingnumber": "KL-000318-2024",
+    "filing_date": "December 20, 2024",
+    "observed_age_days": 445,
+    "procedural_score": 95.26,
+    "rank": 39,
+    "primary_factors": [
+      "Observed court pendency: 445 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #318."
+    ]
+  },
+  {
+    "filingnumber": "KL-000320-2024",
+    "filing_date": "December 20, 2024",
+    "observed_age_days": 445,
+    "procedural_score": 95.26,
+    "rank": 39,
+    "primary_factors": [
+      "Observed court pendency: 445 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #320."
+    ]
+  },
+  {
+    "filingnumber": "KL-000157-2024",
+    "filing_date": "December 21, 2024",
+    "observed_age_days": 444,
+    "procedural_score": 95.11,
+    "rank": 41,
+    "primary_factors": [
+      "Observed court pendency: 444 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #157."
+    ]
+  },
+  {
+    "filingnumber": "KL-000325-2024",
+    "filing_date": "December 21, 2024",
+    "observed_age_days": 444,
+    "procedural_score": 95.11,
+    "rank": 41,
+    "primary_factors": [
+      "Observed court pendency: 444 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #325."
+    ]
+  },
+  {
+    "filingnumber": "KL-000323-2024",
+    "filing_date": "December 23, 2024",
+    "observed_age_days": 442,
+    "procedural_score": 94.79,
+    "rank": 43,
+    "primary_factors": [
+      "Observed court pendency: 442 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #323."
+    ]
+  },
+  {
+    "filingnumber": "KL-000329-2024",
+    "filing_date": "December 26, 2024",
+    "observed_age_days": 439,
+    "procedural_score": 94.32,
+    "rank": 44,
+    "primary_factors": [
+      "Observed court pendency: 439 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #329."
+    ]
+  },
+  {
+    "filingnumber": "KL-000333-2024",
+    "filing_date": "December 26, 2024",
+    "observed_age_days": 439,
+    "procedural_score": 94.32,
+    "rank": 44,
+    "primary_factors": [
+      "Observed court pendency: 439 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #333."
+    ]
+  },
+  {
+    "filingnumber": "KL-000337-2024",
+    "filing_date": "December 27, 2024",
+    "observed_age_days": 438,
+    "procedural_score": 94.16,
+    "rank": 46,
+    "primary_factors": [
+      "Observed court pendency: 438 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #337."
+    ]
+  },
+  {
+    "filingnumber": "KL-000339-2024",
+    "filing_date": "December 27, 2024",
+    "observed_age_days": 438,
+    "procedural_score": 94.16,
+    "rank": 46,
+    "primary_factors": [
+      "Observed court pendency: 438 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #339."
+    ]
+  },
+  {
+    "filingnumber": "KL-000343-2024",
+    "filing_date": "December 27, 2024",
+    "observed_age_days": 438,
+    "procedural_score": 94.16,
+    "rank": 46,
+    "primary_factors": [
+      "Observed court pendency: 438 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #343."
+    ]
+  },
+  {
+    "filingnumber": "KL-000344-2024",
+    "filing_date": "December 27, 2024",
+    "observed_age_days": 438,
+    "procedural_score": 94.16,
+    "rank": 46,
+    "primary_factors": [
+      "Observed court pendency: 438 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #344."
+    ]
+  },
+  {
+    "filingnumber": "KL-000348-2024",
+    "filing_date": "December 30, 2024",
+    "observed_age_days": 435,
+    "procedural_score": 93.68,
+    "rank": 50,
+    "primary_factors": [
+      "Observed court pendency: 435 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #348."
+    ]
+  },
+  {
+    "filingnumber": "KL-000352-2024",
+    "filing_date": "December 30, 2024",
+    "observed_age_days": 435,
+    "procedural_score": 93.68,
+    "rank": 50,
+    "primary_factors": [
+      "Observed court pendency: 435 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #352."
+    ]
+  },
+  {
+    "filingnumber": "KL-000355-2024",
+    "filing_date": "December 31, 2024",
+    "observed_age_days": 434,
+    "procedural_score": 93.53,
+    "rank": 52,
+    "primary_factors": [
+      "Observed court pendency: 434 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #355."
+    ]
+  },
+  {
+    "filingnumber": "KL-000356-2024",
+    "filing_date": "December 31, 2024",
+    "observed_age_days": 434,
+    "procedural_score": 93.53,
+    "rank": 52,
+    "primary_factors": [
+      "Observed court pendency: 434 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2024 (High procedural vintage).",
+      "Queue sequence position: #356."
+    ]
+  },
+  {
+    "filingnumber": "KL-000005-2025",
+    "filing_date": "January 6, 2025",
+    "observed_age_days": 428,
+    "procedural_score": 77.58,
+    "rank": 54,
+    "primary_factors": [
+      "Observed court pendency: 428 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #5."
+    ]
+  },
+  {
+    "filingnumber": "KL-000009-2025",
+    "filing_date": "January 7, 2025",
+    "observed_age_days": 427,
+    "procedural_score": 77.42,
+    "rank": 55,
+    "primary_factors": [
+      "Observed court pendency: 427 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #9."
+    ]
+  },
+  {
+    "filingnumber": "KL-000013-2025",
+    "filing_date": "January 7, 2025",
+    "observed_age_days": 427,
+    "procedural_score": 77.42,
+    "rank": 55,
+    "primary_factors": [
+      "Observed court pendency: 427 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #13."
+    ]
+  },
+  {
+    "filingnumber": "KL-000015-2025",
+    "filing_date": "January 7, 2025",
+    "observed_age_days": 427,
+    "procedural_score": 77.42,
+    "rank": 55,
+    "primary_factors": [
+      "Observed court pendency: 427 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #15."
+    ]
+  },
+  {
+    "filingnumber": "KL-000022-2025",
+    "filing_date": "January 7, 2025",
+    "observed_age_days": 427,
+    "procedural_score": 77.42,
+    "rank": 55,
+    "primary_factors": [
+      "Observed court pendency: 427 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #22."
+    ]
+  },
+  {
+    "filingnumber": "KL-000030-2025",
+    "filing_date": "January 8, 2025",
+    "observed_age_days": 426,
+    "procedural_score": 77.26,
+    "rank": 59,
+    "primary_factors": [
+      "Observed court pendency: 426 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #30."
+    ]
+  },
+  {
+    "filingnumber": "KL-000033-2025",
+    "filing_date": "January 8, 2025",
+    "observed_age_days": 426,
+    "procedural_score": 77.26,
+    "rank": 59,
+    "primary_factors": [
+      "Observed court pendency: 426 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #33."
+    ]
+  },
+  {
+    "filingnumber": "KL-000036-2025",
+    "filing_date": "January 8, 2025",
+    "observed_age_days": 426,
+    "procedural_score": 77.26,
+    "rank": 59,
+    "primary_factors": [
+      "Observed court pendency: 426 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #36."
+    ]
+  },
+  {
+    "filingnumber": "KL-000031-2025",
+    "filing_date": "January 9, 2025",
+    "observed_age_days": 425,
+    "procedural_score": 77.11,
+    "rank": 62,
+    "primary_factors": [
+      "Observed court pendency: 425 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #31."
+    ]
+  },
+  {
+    "filingnumber": "KL-000039-2025",
+    "filing_date": "January 9, 2025",
+    "observed_age_days": 425,
+    "procedural_score": 77.11,
+    "rank": 62,
+    "primary_factors": [
+      "Observed court pendency: 425 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #39."
+    ]
+  },
+  {
+    "filingnumber": "KL-000040-2025",
+    "filing_date": "January 9, 2025",
+    "observed_age_days": 425,
+    "procedural_score": 77.11,
+    "rank": 62,
+    "primary_factors": [
+      "Observed court pendency: 425 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #40."
+    ]
+  },
+  {
+    "filingnumber": "KL-000041-2025",
+    "filing_date": "January 10, 2025",
+    "observed_age_days": 424,
+    "procedural_score": 76.95,
+    "rank": 65,
+    "primary_factors": [
+      "Observed court pendency: 424 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #41."
+    ]
+  },
+  {
+    "filingnumber": "KL-000044-2025",
+    "filing_date": "January 10, 2025",
+    "observed_age_days": 424,
+    "procedural_score": 76.95,
+    "rank": 65,
+    "primary_factors": [
+      "Observed court pendency: 424 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #44."
+    ]
+  },
+  {
+    "filingnumber": "KL-000048-2025",
+    "filing_date": "January 10, 2025",
+    "observed_age_days": 424,
+    "procedural_score": 76.95,
+    "rank": 65,
+    "primary_factors": [
+      "Observed court pendency: 424 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #48."
+    ]
+  },
+  {
+    "filingnumber": "KL-000049-2025",
+    "filing_date": "January 10, 2025",
+    "observed_age_days": 424,
+    "procedural_score": 76.95,
+    "rank": 65,
+    "primary_factors": [
+      "Observed court pendency: 424 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #49."
+    ]
+  },
+  {
+    "filingnumber": "KL-000051-2025",
+    "filing_date": "January 10, 2025",
+    "observed_age_days": 424,
+    "procedural_score": 76.95,
+    "rank": 65,
+    "primary_factors": [
+      "Observed court pendency: 424 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #51."
+    ]
+  },
+  {
+    "filingnumber": "KL-000027-2025",
+    "filing_date": "January 13, 2025",
+    "observed_age_days": 421,
+    "procedural_score": 76.47,
+    "rank": 70,
+    "primary_factors": [
+      "Observed court pendency: 421 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #27."
+    ]
+  },
+  {
+    "filingnumber": "KL-000053-2025",
+    "filing_date": "January 13, 2025",
+    "observed_age_days": 421,
+    "procedural_score": 76.47,
+    "rank": 70,
+    "primary_factors": [
+      "Observed court pendency: 421 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #53."
+    ]
+  },
+  {
+    "filingnumber": "KL-000054-2025",
+    "filing_date": "January 14, 2025",
+    "observed_age_days": 420,
+    "procedural_score": 76.32,
+    "rank": 72,
+    "primary_factors": [
+      "Observed court pendency: 420 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #54."
+    ]
+  },
+  {
+    "filingnumber": "KL-000043-2025",
+    "filing_date": "January 15, 2025",
+    "observed_age_days": 419,
+    "procedural_score": 76.16,
+    "rank": 73,
+    "primary_factors": [
+      "Observed court pendency: 419 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #43."
+    ]
+  },
+  {
+    "filingnumber": "KL-000056-2025",
+    "filing_date": "January 15, 2025",
+    "observed_age_days": 419,
+    "procedural_score": 76.16,
+    "rank": 73,
+    "primary_factors": [
+      "Observed court pendency: 419 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #56."
+    ]
+  },
+  {
+    "filingnumber": "KL-000045-2025",
+    "filing_date": "January 16, 2025",
+    "observed_age_days": 418,
+    "procedural_score": 76.0,
+    "rank": 75,
+    "primary_factors": [
+      "Observed court pendency: 418 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #45."
+    ]
+  },
+  {
+    "filingnumber": "KL-000060-2025",
+    "filing_date": "January 16, 2025",
+    "observed_age_days": 418,
+    "procedural_score": 76.0,
+    "rank": 75,
+    "primary_factors": [
+      "Observed court pendency: 418 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #60."
+    ]
+  },
+  {
+    "filingnumber": "KL-000061-2025",
+    "filing_date": "January 16, 2025",
+    "observed_age_days": 418,
+    "procedural_score": 76.0,
+    "rank": 75,
+    "primary_factors": [
+      "Observed court pendency: 418 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #61."
+    ]
+  },
+  {
+    "filingnumber": "KL-000062-2025",
+    "filing_date": "January 16, 2025",
+    "observed_age_days": 418,
+    "procedural_score": 76.0,
+    "rank": 75,
+    "primary_factors": [
+      "Observed court pendency: 418 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #62."
+    ]
+  },
+  {
+    "filingnumber": "KL-000064-2025",
+    "filing_date": "January 16, 2025",
+    "observed_age_days": 418,
+    "procedural_score": 76.0,
+    "rank": 75,
+    "primary_factors": [
+      "Observed court pendency: 418 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #64."
+    ]
+  },
+  {
+    "filingnumber": "KL-000069-2025",
+    "filing_date": "January 17, 2025",
+    "observed_age_days": 417,
+    "procedural_score": 75.84,
+    "rank": 80,
+    "primary_factors": [
+      "Observed court pendency: 417 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #69."
+    ]
+  },
+  {
+    "filingnumber": "KL-000076-2025",
+    "filing_date": "January 18, 2025",
+    "observed_age_days": 416,
+    "procedural_score": 75.68,
+    "rank": 81,
+    "primary_factors": [
+      "Observed court pendency: 416 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #76."
+    ]
+  },
+  {
+    "filingnumber": "KL-000078-2025",
+    "filing_date": "January 20, 2025",
+    "observed_age_days": 414,
+    "procedural_score": 75.37,
+    "rank": 82,
+    "primary_factors": [
+      "Observed court pendency: 414 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #78."
+    ]
+  },
+  {
+    "filingnumber": "KL-000080-2025",
+    "filing_date": "January 20, 2025",
+    "observed_age_days": 414,
+    "procedural_score": 75.37,
+    "rank": 82,
+    "primary_factors": [
+      "Observed court pendency: 414 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #80."
+    ]
+  },
+  {
+    "filingnumber": "KL-000091-2025",
+    "filing_date": "January 21, 2025",
+    "observed_age_days": 413,
+    "procedural_score": 75.21,
+    "rank": 84,
+    "primary_factors": [
+      "Observed court pendency: 413 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #91."
+    ]
+  },
+  {
+    "filingnumber": "KL-000092-2025",
+    "filing_date": "January 22, 2025",
+    "observed_age_days": 412,
+    "procedural_score": 75.05,
+    "rank": 85,
+    "primary_factors": [
+      "Observed court pendency: 412 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #92."
+    ]
+  },
+  {
+    "filingnumber": "KL-000100-2025",
+    "filing_date": "January 23, 2025",
+    "observed_age_days": 411,
+    "procedural_score": 74.89,
+    "rank": 86,
+    "primary_factors": [
+      "Observed court pendency: 411 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #100."
+    ]
+  },
+  {
+    "filingnumber": "KL-000101-2025",
+    "filing_date": "January 23, 2025",
+    "observed_age_days": 411,
+    "procedural_score": 74.89,
+    "rank": 86,
+    "primary_factors": [
+      "Observed court pendency: 411 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #101."
+    ]
+  },
+  {
+    "filingnumber": "KL-000103-2025",
+    "filing_date": "January 23, 2025",
+    "observed_age_days": 411,
+    "procedural_score": 74.89,
+    "rank": 86,
+    "primary_factors": [
+      "Observed court pendency: 411 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #103."
+    ]
+  },
+  {
+    "filingnumber": "KL-000107-2025",
+    "filing_date": "January 23, 2025",
+    "observed_age_days": 411,
+    "procedural_score": 74.89,
+    "rank": 86,
+    "primary_factors": [
+      "Observed court pendency: 411 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #107."
+    ]
+  },
+  {
+    "filingnumber": "KL-000109-2025",
+    "filing_date": "January 24, 2025",
+    "observed_age_days": 410,
+    "procedural_score": 74.74,
+    "rank": 90,
+    "primary_factors": [
+      "Observed court pendency: 410 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #109."
+    ]
+  },
+  {
+    "filingnumber": "KL-000115-2025",
+    "filing_date": "January 24, 2025",
+    "observed_age_days": 410,
+    "procedural_score": 74.74,
+    "rank": 90,
+    "primary_factors": [
+      "Observed court pendency: 410 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #115."
+    ]
+  },
+  {
+    "filingnumber": "KL-000128-2025",
+    "filing_date": "January 24, 2025",
+    "observed_age_days": 410,
+    "procedural_score": 74.74,
+    "rank": 90,
+    "primary_factors": [
+      "Observed court pendency: 410 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #128."
+    ]
+  },
+  {
+    "filingnumber": "KL-000129-2025",
+    "filing_date": "January 24, 2025",
+    "observed_age_days": 410,
+    "procedural_score": 74.74,
+    "rank": 90,
+    "primary_factors": [
+      "Observed court pendency: 410 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #129."
+    ]
+  },
+  {
+    "filingnumber": "KL-000134-2025",
+    "filing_date": "January 27, 2025",
+    "observed_age_days": 407,
+    "procedural_score": 74.26,
+    "rank": 94,
+    "primary_factors": [
+      "Observed court pendency: 407 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #134."
+    ]
+  },
+  {
+    "filingnumber": "KL-000136-2025",
+    "filing_date": "January 27, 2025",
+    "observed_age_days": 407,
+    "procedural_score": 74.26,
+    "rank": 94,
+    "primary_factors": [
+      "Observed court pendency: 407 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #136."
+    ]
+  },
+  {
+    "filingnumber": "KL-000138-2025",
+    "filing_date": "January 28, 2025",
+    "observed_age_days": 406,
+    "procedural_score": 74.11,
+    "rank": 96,
+    "primary_factors": [
+      "Observed court pendency: 406 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #138."
+    ]
+  },
+  {
+    "filingnumber": "KL-000139-2025",
+    "filing_date": "January 28, 2025",
+    "observed_age_days": 406,
+    "procedural_score": 74.11,
+    "rank": 96,
+    "primary_factors": [
+      "Observed court pendency: 406 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #139."
+    ]
+  },
+  {
+    "filingnumber": "KL-000143-2025",
+    "filing_date": "January 28, 2025",
+    "observed_age_days": 406,
+    "procedural_score": 74.11,
+    "rank": 96,
+    "primary_factors": [
+      "Observed court pendency: 406 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #143."
+    ]
+  },
+  {
+    "filingnumber": "KL-000260-2024",
+    "filing_date": "January 28, 2025",
+    "observed_age_days": 406,
+    "procedural_score": 74.11,
+    "rank": 96,
+    "primary_factors": [
+      "Observed court pendency: 406 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #260."
+    ]
+  },
+  {
+    "filingnumber": "KL-000145-2025",
+    "filing_date": "January 29, 2025",
+    "observed_age_days": 405,
+    "procedural_score": 73.95,
+    "rank": 100,
+    "primary_factors": [
+      "Observed court pendency: 405 days (Exceeds median disposed case threshold).",
+      "Filing cohort: 2025 (High procedural vintage).",
+      "Queue sequence position: #145."
+    ]
+  }
+]

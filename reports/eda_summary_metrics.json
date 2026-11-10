@@ -1,0 +1,14 @@
+{
+  "total_cases": 1284,
+  "disposed_cases": 278,
+  "pending_cases": 1006,
+  "disposal_rate": 0.21651090342679127,
+  "disposed_duration_mean": 166.1978417266187,
+  "disposed_duration_std": 104.65366845091857,
+  "disposed_duration_median": 149.5,
+  "disposed_duration_iqr": 158.0,
+  "disposed_duration_min": 15,
+  "disposed_duration_max": 455,
+  "skewness": 0.6435989047838819,
+  "kurtosis": -0.4864715353818947
+}

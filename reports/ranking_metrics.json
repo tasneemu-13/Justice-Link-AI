@@ -1,0 +1,9 @@
+{
+  "total_pending_evaluated": 1006,
+  "ndcg_at_50": 0.013808907167708913,
+  "top_50_concordance_precision": 0.46,
+  "criteria_weights": {
+    "age_duration_weight": 0.75,
+    "cohort_vintage_weight": 0.25
+  }
+}
