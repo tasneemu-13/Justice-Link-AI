@@ -1,0 +1,143 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <!-- Favicon -->
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚖️</text></svg>"
+    />
+
+    <!-- Responsive Configuration -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- SEO -->
+    <title>
+      JusticeLink AI · न्याय सेतु | Intelligent Judicial Analytics
+    </title>
+
+    <meta
+      name="description"
+      content="JusticeLink AI is an explainable AI-powered judicial intelligence and case prioritization platform designed for Indian District Courts. Advancing transparency, procedural efficiency, and data-driven judicial insights."
+    />
+
+    <meta name="theme-color" content="#F8F5EF" />
+
+    <meta
+      name="keywords"
+      content="JusticeLink AI, Indian Judiciary, Judicial Analytics, Case Prioritization, Artificial Intelligence, District Courts, Legal Technology"
+    />
+
+    <!-- Font Preconnections -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Premium Typography -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700;800;900&family=DM+Sans:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400;1,500&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Design System -->
+    <style>
+      :root {
+        color-scheme: light;
+
+        --background: #F8F5EF;
+        --surface: #FFFDFA;
+        --surface-secondary: #F2ECE3;
+
+        --primary: #592D35;
+        --primary-dark: #3D1C25;
+        --primary-light: #7C4850;
+
+        --accent: #A77B45;
+        --accent-light: #D6B989;
+
+        --text-primary: #292321;
+        --text-secondary: #746963;
+        --text-muted: #9C9188;
+
+        --border: #E8DED2;
+
+        --success: #53765C;
+        --warning: #B17A39;
+        --danger: #A44E49;
+
+        --font-heading: 'Playfair Display', serif;
+        --font-brand: 'Cinzel', serif;
+        --font-body: 'Plus Jakarta Sans', sans-serif;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html {
+        scroll-behavior: smooth;
+        background: var(--background);
+      }
+
+      body {
+        margin: 0;
+        min-width: 320px;
+        min-height: 100vh;
+        background: var(--background);
+        color: var(--text-primary);
+        font-family: var(--font-body);
+        -webkit-font-smoothing: antialiased;
+        text-rendering: optimizeLegibility;
+      }
+
+      button,
+      input,
+      textarea,
+      select {
+        font: inherit;
+      }
+
+      ::selection {
+        background: #E7D5C0;
+        color: var(--primary-dark);
+      }
+
+      *:focus-visible {
+        outline: 2px solid var(--accent);
+        outline-offset: 3px;
+      }
+
+      #root {
+        min-height: 100vh;
+        isolation: isolate;
+      }
+
+      /* Elegant scrollbar */
+
+      ::-webkit-scrollbar {
+        width: 8px;
+      }
+
+      ::-webkit-scrollbar-track {
+        background: var(--background);
+      }
+
+      ::-webkit-scrollbar-thumb {
+        background: #C7B6A5;
+        border-radius: 20px;
+      }
+
+      ::-webkit-scrollbar-thumb:hover {
+        background: var(--primary-light);
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="root"></div>
+
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
